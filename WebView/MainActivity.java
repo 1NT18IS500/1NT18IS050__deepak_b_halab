@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         WebView webView = (WebView) findViewById(R.id.webview);
-        webView.loadUrl("https://www.youtube.com/watch?v=joEx2a83_7c");
+        webView.loadUrl("https://www.nmit.ac.in");
     }
 }
